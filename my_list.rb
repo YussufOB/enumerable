@@ -1,4 +1,6 @@
+# Load my_enumerable module
 require_relative 'My_Enumerable'
+# class MyList
 class MyList
   def initialize(*list)
     @list = list
