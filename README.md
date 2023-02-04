@@ -88,7 +88,7 @@ Install this project with:
 - GitHub: [@yussufOB](https://github.com/yussufOB)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yussuf-bashir)
 
-👤 **Mirwais**
+👤 **Mirwais Farahi**
 
 - GitHub: [@mirwaisfarahi](https://github.com/mirwaisfarahi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/Mirwais-farahi)
