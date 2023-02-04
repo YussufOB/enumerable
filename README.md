@@ -83,14 +83,15 @@ Install this project with:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Saikat**
-
-- GitHub: [@Saikatgpae](https://github.com/yussufOB)
-
-👤 **Shisui**
+👤 **Bash**
 
 - GitHub: [@Shisui6](https://github.com/yussufOB)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yussuf-bashir)
+
+👤 **Mirwais**
+
+- GitHub: [@Shisui6](https://github.com/mirwaisfarahi)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/Mirwais-farahi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
