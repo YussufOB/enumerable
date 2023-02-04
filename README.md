@@ -85,12 +85,12 @@ Install this project with:
 
 👤 **Bash**
 
-- GitHub: [@Shisui6](https://github.com/yussufOB)
+- GitHub: [@yussufOB](https://github.com/yussufOB)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yussuf-bashir)
 
 👤 **Mirwais**
 
-- GitHub: [@Shisui6](https://github.com/mirwaisfarahi)
+- GitHub: [@mirwaisfarahi](https://github.com/mirwaisfarahi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/Mirwais-farahi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
