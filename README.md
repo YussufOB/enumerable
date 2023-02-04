@@ -88,7 +88,7 @@ Install this project with:
 - GitHub: [@yussufOB](https://github.com/yussufOB)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yussuf-bashir)
 
-👤 **Mirwais**
+👤 **Mirwais Farahi**
 
 - GitHub: [@mirwaisfarahi](https://github.com/mirwaisfarahi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/Mirwais-farahi)
@@ -133,6 +133,6 @@ If you like this project please leave a star🤩
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
+This project is [MIT](./MIT.md) licensed
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
